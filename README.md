@@ -10,8 +10,6 @@ https://www.innoq.com/en/blog/2022/04/kustomize-introduction/
 https://itnext.io/kubernetes-kustomize-cheat-sheet-8e2d31b74d8f
 
 
-
-
 ## Patchs
 https://medium.com/@giorgiodevops/kustomize-use-patches-to-add-or-override-resources-48ef65cb634c
 https://code.tubitv.com/managing-kubernetes-manifest-complexity-with-kustomize-b172346a805a
