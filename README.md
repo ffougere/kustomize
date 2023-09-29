@@ -2,6 +2,7 @@
 Repo example for kustomize
 
 # URL resources
+https://trstringer.com/helm-kustomize/
 https://devopscube.com/kustomize-tutorial/
 https://codefresh.io/blog/applied-gitops-with-kustomize/
 https://testingclouds.wordpress.com/2018/07/20/844/
@@ -10,6 +11,7 @@ https://www.innoq.com/en/blog/2022/04/kustomize-introduction/
 https://itnext.io/kubernetes-kustomize-cheat-sheet-8e2d31b74d8f
 
 https://www.innoq.com/en/blog/2022/04/kustomize-introduction/
+
 
 
 ## Patchs
