@@ -30,3 +30,7 @@ Flux : https://airwavetechio.medium.com/gitops-with-flux-and-kustomize-24dfabb8b
 
 https://github.com/slok/kahoy-kustomize-example
 https://codefresh.io/docs/docs/example-catalog/cd-examples/deploy-with-kustomize/
+
+# Common issues
+https://github.com/kubernetes-sigs/kustomize/issues/3137
+https://stackoverflow.com/questions/69646049/kubernetes-kustomization-not-able-do-download-from-remote-resource
