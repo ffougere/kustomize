@@ -2,6 +2,7 @@
 Repo example for kustomize
 
 # URL resources
+https://www.linkedin.com/pulse/kustomize-how-deploy-scale-when-you-need-everywhere-miles-kniep/
 https://devopscube.com/kustomize-tutorial/
 https://dev.to/pavanbelagatti/kubernetes-kustomize-tutorial-a-beginner-friendly-developer-guide-322n
 https://redhat-scholars.github.io/argocd-tutorial/argocd-tutorial/03-kustomize.html
